@@ -2,15 +2,13 @@
 mjtio.asm || mjtInputOutput.asm
 ----------------------------------
 
--------------------------------------------------
 this is small assembly header coded by Mr MJT
---------------------------------------------------
 
-
+-------------------------
 for whom this header:
 -----------------------------------------------------
+
 this header will help programmers that learned assembly language..
---------------------------------------------------------------------------
 
 
 -include the file by typing %include "mjtio.asm" on the top of your file (make sure to move your file to this directory)
