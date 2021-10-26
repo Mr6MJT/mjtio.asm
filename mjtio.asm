@@ -1,5 +1,5 @@
 ; #############################################################################################################
-; hello guys i am Mr MJT,this file is coded by me,include this file into your file by typing %include "mjt.asm"
+; hello guys i am Mr MJT,this file is coded by me,include this file into your file by typing %include "mjtio.asm"
 ; ##############################################################################################################
 ; https://github.com/Mr6MJT
 
