@@ -24,4 +24,4 @@ you will not understand how this header works if you didn't learned assembly lan
 this photo will help you to understand how the mjtio.asm works:
 ===================================================================
 
-<img src="s.png">
+<img src="g.png">
