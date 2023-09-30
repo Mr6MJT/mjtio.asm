@@ -1,4 +1,3 @@
-# TEST
 mjtio.asm || mjtInputOutput.asm
 ----------------------------------
 
